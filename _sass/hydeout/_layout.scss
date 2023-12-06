@@ -110,7 +110,7 @@ body {
 
   // Bigger title
   .site-title {
-    font-size: 2.70rem;
+    font-size: 2.45rem;
   }
 
   // Show secondary nav content + lead
@@ -152,6 +152,7 @@ body {
   #sidebar,
   .home #sidebar {
     text-align: left;
+
     width: $sidebar-width;
 
     > *:last-child {
@@ -181,7 +182,7 @@ body {
     }
 
     .site-title {
-      font-size:2.70rem;
+      font-size:2.45rem;
       .back-arrow { display: none; }
     }
 
@@ -284,6 +285,7 @@ body {
   justify-content: center;
   margin-top: 1rem;
   max-width: 100%;
+  vertical-align: bottom;
 
   @media (min-width: $large-breakpoint) {
     justify-content: flex-start;
@@ -293,7 +295,7 @@ body {
 
 #sidebar nav > * {
   display: block;
-  line-height: 1.75;
+  line-height: 1.5;
 }
 
 #sidebar nav > .icon {

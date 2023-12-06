@@ -40,15 +40,15 @@ $default-box-shadow: $box-shadow-size $box-shadow-size $box-shadow-size rgba(0, 
 
 $code-font-family: Menlo, Monaco, 'Courier New', monospace !default;
 $code-color: #bf616a !default;
-@import url('//fonts.googleapis.com/css2?family=Impact&display=swap');
+@import url('//fonts.googleapis.com/css2?family=Russo+One&display=swap');
 // Hyde theming
-$sidebar-bg-color: #202020 !default;
+$sidebar-bg-color: #03045e !default; //202020
 $sidebar-fg-color: #fff !default;
 $sidebar-sticky: true !default;
 $layout-reverse: false !default;
 
 $sidebar-title-color: $sidebar-fg-color !default;
-$sidebar-title-font-family: 'Impact', sans-serif;
+$sidebar-title-font-family: 'Russo One', sans-serif;
 $sidebar-link-color: $sidebar-fg-color !default;
 $sidebar-text-color: rgba($sidebar-fg-color, 0.75) !default;
 $sidebar-icon-color: rgba($sidebar-fg-color, 0.85) !default;
