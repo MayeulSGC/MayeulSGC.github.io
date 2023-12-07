@@ -34,7 +34,7 @@ body {
 
 #sidebar {
   flex: 0 0 auto;
-  padding: $section-spacing;
+  padding: $sidebar-spacing;
 
   .site-title {
     font-family: $sidebar-title-font-family;
@@ -61,7 +61,8 @@ body {
 
   > .content {
     flex-grow: 1;
-    padding-bottom: $section-spacing * 2;
+    padding-bottom: $sidebar-spacing * 2;
+    
   }
 }
 
@@ -84,9 +85,9 @@ body {
   background: transparent;
   color: $sidebar-title-color;
   margin:
-    ($heading-spacing - $section-spacing)
-    $section-spacing
-    $section-spacing;
+    ($heading-spacing - $sidebar-spacing)
+    $sidebar-spacing
+    $sidebar-spacing;
 
   h1,
   h2 {
@@ -231,7 +232,7 @@ body {
     }
 
     > * {
-      max-width: 38rem;
+      max-width: 40rem;
       padding: 0;
     }
   }
