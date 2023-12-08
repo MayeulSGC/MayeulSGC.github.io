@@ -25,9 +25,11 @@ title: Resume
 <h1><ins>Education</ins></h1>
 
 
-<h2>ESSEC Business School</h2>
+<img style="float: left;" src="/assets/Essec_logo.jpg"/>
+<h2> ESSEC Business School</h2>  
 **September 2017 - July 2020**  
-Grande Ecole Program - Master in Management
-<h2>Institut Supérieur d'Electronique de Paris (ISEP)</h2>
+Grande Ecole Program - Master in Management  
+<img style="float: left;" src="/assets/logo_isep.svg" vertical-align="bottom"/>
+<h2> Institut Supérieur d'Electronique de Paris (ISEP)</h2>
 **September 2012 - July 2017**  
 Computer Science Master

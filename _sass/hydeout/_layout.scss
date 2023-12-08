@@ -204,10 +204,10 @@ body {
     background: $body-bg;
     color: $body-color;
     min-height: 100vh;
-    padding:
-      $section-spacing * 2
-      $section-spacing * 2
-      0;
+    padding-top:$section-spacing;
+    padding-left:max(min(calc((100% - 50rem) / 2),$section-spacing * 3),0.2rem);//$section-spacing * 2;
+    padding-right:max(min(calc((100% - 50rem) / 2),$section-spacing * 3),0.2rem);
+    padding-bottom:1rem;
 
     @if $layout-reverse {
       margin-right: $sidebar-width;
