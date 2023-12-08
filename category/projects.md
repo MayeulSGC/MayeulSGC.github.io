@@ -11,11 +11,14 @@ Here find the different projects I spend or spent time on. I will rank them by l
 
 
 <h2>Enthusiastic Learner [!]</h2>
-Inspired from the very good [Gautier Marti tech blog](https://gmarti.gitlab.io/) and the less technical but as interesting [reasonnable deviations](https://reasonabledeviations.com/) from Robert Andrew Martin (some might see the resemblance in design). After some time spent reading papers, exploring a bunch of different things, I wanted to share some of the things I find interesting and hopefully bring a bit of value to readers, in the same way I gained from the 2 blogs mentionned above, among others. The blog is hosted on github, and runs on Jekyll with the Hydeout theme. Pages and posts are markdowns.  
+Inspired from the very good [Gautier Marti tech blog](https://gmarti.gitlab.io/) and the less technical but as interesting [reasonnable deviations](https://reasonabledeviations.com/) from Robert Andrew Martin (some might see the resemblance in design). After some time spent reading papers, exploring a bunch of different things, I wanted to share some of the things I find interesting and hopefully bring a bit of value to readers, in the same way I gained from the 2 blogs mentionned above, among others. The blog is hosted on github, and runs on [Jekyll](https://github.com/jekyll/jekyll) with the [Hydeout](https://github.com/fongandrew/hydeout)   theme. Pages and posts are markdowns.  
+
+
+
 
 ---
 <h2>Event-driven Backtesting Engine [!]</h2>
-I aim at creating an event based backtesting architecture in python. The work is inspired by the repos of [David Cicoria](https://github.com/DavidCico/Enhanced-Event-Driven-Backtester), the [QuantStart](https://www.quantstart.com/articles/Event-Driven-Backtesting-with-Python-Part-I/) guide written by Michael Halls-Moore, as well as the Backtrader package on github. The work is still in progress but I will publish the code in opensource on Github when I will be statisfied with the state of advancement of the code and project. 
+I aim at creating an event based backtesting architecture in python. The work is inspired by the repos of [David Cicoria](https://github.com/DavidCico/Enhanced-Event-Driven-Backtester), the [QuantStart](https://www.quantstart.com/articles/Event-Driven-Backtesting-with-Python-Part-I/) guide written by Michael Halls-Moore, as well as the [Backtrader](https://github.com/mementum/backtrader) package on github. The work is still in progress but I will publish the code in opensource on Github when I will be statisfied with the state of advancement of the code and project. 
 
 ---
 
@@ -27,7 +30,7 @@ A quick console based mental math game based on some of the interview rounds cen
 
 ---
 <h2>Reeflx [?]</h2>
-Reeflx is a mobile game I developped with my brother on Unity in C#. It was published on both iOs and Android but due to me being too lazy to update the different policies and changing my setup, and therefore loosing access to a macbook, the application has now been taken off the stores. 
+Reeflx is a mobile game I developped with my brother on Unity in `C#`. It was published on both iOs and Android but due to me being too lazy to update the different policies and changing my setup, and therefore loosing access to a macbook, the application has now been taken off the stores. 
 The concept was pretty simple: one of the screen corner is randomly lit up with a color and you have to click on the corresponding color as fast as possible. We had different modes, one with unlimited time where speed would gradually increase and one with a timer and constant speed. 
 Setup things again to run the updates and have it published again on the stores is in my long term todo list, hopefully it gets done one day... 
 
