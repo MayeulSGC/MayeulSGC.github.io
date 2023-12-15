@@ -33,3 +33,13 @@ Grande Ecole Program - Master in Management
 <h2> Institut Supérieur d'Electronique de Paris (ISEP)</h2>
 **September 2012 - July 2017**  
 Computer Science Master
+
+
+<h1>Awards & Distinctions</h1>
+- ADIA Lab Market prediction competition 2023 5th place. 
+- ISEP & IEEE CASS Project Pitch Winner 2016
+
+
+<h1>Hobbies</h1>
+Outside of work you can find me watching or playing rugby, talking about F1, playing video games (mostly League of Legends), Poker, or trying out stuff in some open machine learning competitions.  
+I also like to follow the news around cyber security and do some basic Capture the flag challenges from time to time. 
